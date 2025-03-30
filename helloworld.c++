@@ -1,10 +1,10 @@
 #include <cstdio>
-using namespace std;
+
 
 int main() {
     puts("Hello, World!");
     return 0;
 }
 
-// g++ helloworld.c++ -o helloworld
+// clang++ helloworld.c++ -o helloworld.exe
 // ./helloworld.exe
